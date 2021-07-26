@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "denver-311215",
-  "private_key_id": "14d0c79b4aa29c0bf0e352616d4fe8eddf2bcdf6",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9/wnrqefbQUbt\nQKKNS4FmjL63GhH5O2ZcKkxMbXZ2pGxeJMdIzK6OlVNrR7yRRP6Fc/o/CUBnFa5H\nF5AWfz/NaXA/ANL2k+iXcUEpiDpTphnjr6b8s/0Zsn++foursme/274hogwOdWGV\nSaF2jx3w1heA1t3puSwD3HERpYK59eqfBGKvy8x+ku0J6lBSShmD+IYBVOLT5q50\ne47RPtypY0Y6z6WBayASc1AY8Jh1I47v5y95Z5kq4BvOhvmEjYPxCtj7hsnrv0BH\nyfjVfPCicJ0Ov0h5/RNqo9QejwxzPo8GcI6l9Wi7rpywD1ODvAQXcryp2Eop71ff\nwxU5oxNpAgMBAAECggEAGJVIPlLPP3efFWbt4WRUoOUzGVPpNsXwb5pqzDTERYOZ\ndfDs9sbCYIvXraOBiuD8zF2o58EVsSuFT4jant6QwyOSX28xh1q0l0ETJ6w1snRl\nGH22GIUICZbRSopAc33I83Jw6RR42jdmjJS+AdjGDKRW3tfDrNBwboDLrHcthqFJ\nnJdTJA+YMZkL4ldhIqCr7jqb+ugYcY7Jv/YVL7+2eN0ZhXAZpvJLAmPI7Cq8dUfT\n5N9ATuSZ+bMiASGO0vu7tPzSNL0WmlUSYTJtq+4oDIttRDYTxb6RPnZZtjNLhRDq\n1kecY3NjyYL+ih3HdWkYAcCREgrNSvqTOjY5iK9KZQKBgQDh8E6igChEDbL1/sW0\nbiVZbtzbtg1aR+MSkOsEqOKeW0ZghRJ/mye7RGa8K8KVvhccYR3NhJczkGgRxEvu\nFxOEh/CzWd/63kfK5ueIePw4OjDcpa3iqm5iyD5K9qPobUEszMQCT82YP67Ki2dE\n6I9evtlLg6Q5f6NmQSq0irBmzwKBgQDXRn8YVC/EbCC3wP0dxIz4EUmwOdPQq8G8\nRSSv3B0jz6unT7Vi87gzHzc8m9k1YhiEpoqsP8xgI9bvVYb+Xokut2ilFhMwrxpa\nAh1As2og/nMKMgBXRlL5isAFBLT1VsZUktI8M2IsneOU7MPx+GoKGrkYrK7WUJiz\nSz9a/YRwRwKBgChCh+CQ8ZvezQrkkRornmAnTxefgxWZRa8jP52e8nLBVPMSA0/V\nt+i4sY3KRmwkaT3XWFYs0DyR+Nlhnx4X4pR1HMD4vN6ZCTXwm0VIOblTNS28IBYJ\nxI25nNACzwY1oa13911qFvqQLndNC+PNhO6fF11LYdIVGmq4JgHxzKklAoGAM/0H\nZoW2P3ZpdFb8CbtU2/e41wEwIR3JnMEJ+hprQyG875v1Tx9Spa3tNgrhKt4005ww\nsyZ5IeKl3ojGIBoOgSSz9eJd4gz3jTMjg2OQxsUMXTL0GB+YnEEg3FVlqjY5kWUf\ntoAmPmYm9uky7PW0DhqkBsx1MLaoGeybMUs2N7MCgYEAzTw5cQErQngJ1TT5miCu\ncaE0oYTkCNhRLp8AcV2CXRbxnO2yb0O94TizQTKewGqnpRFQDFigCncxP/RbPH1Y\nrVQaWYry9/CVP+N+wvc0Tf3xz/fI3MDc+i+0ZatVE9fhefFeicNHbtZ9/8WnM3mS\naGemd2JATQRMo6iylefWAAE=\n-----END PRIVATE KEY-----\n",
-  "client_email": "create-sales@denver-311215.iam.gserviceaccount.com",
-  "client_id": "101084775150914390937",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/create-sales%40denver-311215.iam.gserviceaccount.com"
+  Removed
 }
